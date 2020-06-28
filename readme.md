@@ -5,7 +5,7 @@ main.py 主函数文件
 test.py 季军代码，不过似乎无法运行
 
 文件结构
-![](consolexinhun.test.upcdn.net/20200628212721.png)
+![图片](consolexinhun.test.upcdn.net/20200628212721.png)
 
 ### 环境
 pytorch
