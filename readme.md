@@ -5,7 +5,22 @@ main.py 主函数文件
 test.py 季军代码，不过似乎无法运行
 
 文件结构
-![NW1LTA.png](https://s1.ax1x.com/2020/06/29/NW1LTA.png)
+<!-- ![NW1LTA.png](https://s1.ax1x.com/2020/06/29/NW1LTA.png) -->
+
+`tree -L 1`
+
+.
+├── data
+├── dataload.py
+├── key.csv
+├── main.py
+├── __pycache__
+├── readme.md
+├── test
+├── test.py
+├── train
+└── val
+
 
 ### 环境
 pytorch
